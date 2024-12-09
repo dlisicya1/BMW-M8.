@@ -1,0 +1,33 @@
+body{
+    background-color:gainsboro;
+    
+}
+img {
+    width: 400px;
+    height: 250px;
+}
+.first{
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    align-items: center;
+
+}
+.first p{
+    width: 450px;
+    padding:20px;
+    font-size: 18px;
+}
+main{
+    margin: 30px;
+}
+nav a{
+    text-decoration: none;
+    background-color: rgb(61, 35, 1);
+    color: aliceblue;
+    padding:15px ;
+    border-radius: 10px;
+}
+nav {
+    margin: 20px 30px;
+}
